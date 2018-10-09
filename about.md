@@ -4,6 +4,10 @@ title: About
 permalink: /about/
 ---
 
+My name is Sen Lin. I am a graduate student with background in Mathematics, [Life Science](https://www.huck.psu.edu/) and Aerospace Engineering. Here is my resume. 
+
+This blog is powered by [jekyllrb](https://jekyllrb.com/).
+
 This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
 
 You can find the source code for Minima at GitHub:
